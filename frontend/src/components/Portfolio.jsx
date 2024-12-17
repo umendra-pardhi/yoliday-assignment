@@ -44,7 +44,7 @@ function Portfolio() {
             </div>
 
             <div className="border rounded-lg p-1 ps-0 w-[90%] ">
-              <input type="text" placeholder="Search a project" onChange={(e) => setSearch(e.target.value)} className="w-[90%] lg:w-fit outline-none px-4 py-2 lg:py-1 " />
+              <input type="text" placeholder="Search a project" onChange={(e) => setSearch(e.target.value)} className="w-[85%] lg:w-fit outline-none px-4 py-2 lg:py-1 " />
               <button className="bg-[#DF5532] text-white py-1 px-3 rounded-lg ">
                 <i className="fas fa-search text-xs"></i>
               </button>
@@ -77,7 +77,7 @@ function Portfolio() {
                           <div className="text-gray-500 text-md">{project.author}</div>
                         </div>
                         <div>
-                          <button className=" text-white px-4 py-2 rounded-lg self-start " style={{ background: "linear-gradient(135deg, #F39519 0%, #FFCD67 100%)" }}>Add to Cart</button>
+                          <button className=" text-white px-2 lg:px-4 py-2 rounded-lg self-start text-xs lg:text-sm " style={{ background: "linear-gradient(135deg, #F39519 0%, #FFCD67 100%)" }}>Add to Cart</button>
                         </div>
                       </div>
 
