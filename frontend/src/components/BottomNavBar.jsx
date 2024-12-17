@@ -1,0 +1,7 @@
+function BottomNavBar(){
+    return (
+        <>
+        
+        </>
+    )
+}

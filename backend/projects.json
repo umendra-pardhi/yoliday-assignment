@@ -1,0 +1,72 @@
+ [
+      {
+        "id": 1,
+        "title": "Mastering the Art of Summarizing Text",
+        "description": "A comprehensive guide to improving text summarization skills, using both manual techniques and AI-powered tools for maximum efficiency.",
+        "language": "English",
+        "author": "John Doe"
+      },
+      {
+        "id": 2,
+        "title": "Developing Mobile Applications",
+        "description": "Learn the fundamentals of mobile app development using platforms like React Native and Flutter, and create apps for both iOS and Android.",
+        "language": "English",
+        "author": "Alice Johnson"
+      },
+      {
+        "id": 3,
+        "title": "Introduction to Python Programming",
+        "description": "A beginner-friendly tutorial that covers Python programming basics, including variables, loops, functions, and a simple real-world project.",
+        "language": "English",
+        "author": "Michael Smith"
+      },
+      {
+        "id": 4,
+        "title": "Writing Scientific Research Papers",
+        "description": "Step-by-step guidance on how to write well-structured and impactful scientific research papers, including citation formats and literature reviews.",
+        "language": "English",
+        "author": "Emily Davis"
+      },
+      {
+        "id": 5,
+        "title": "Getting Started with JavaScript Programming",
+        "description": "An in-depth exploration of JavaScript concepts, including DOM manipulation, event handling, and modern ES6 features like promises and async/await.",
+        "language": "English",
+        "author": "Chris Evans"
+      },
+      {
+        "id": 6,
+        "title": "An Introduction to UI/UX Design",
+        "description": "Learn the principles of UI/UX design, user research, wireframing, and prototyping, along with practical examples of user-centric design practices.",
+        "language": "English",
+        "author": "Sophia Martinez"
+      },
+      {
+        "id": 7,
+        "title": "Agile Project Management Essentials",
+        "description": "An introduction to Agile methodologies like Scrum and Kanban, with real-world case studies of effective project management workflows.",
+        "language": "English",
+        "author": "David Thompson"
+      },
+      {
+        "id": 8,
+        "title": "Search Engine Optimization (SEO) Techniques",
+        "description": "Understand how to improve website rankings on search engines using on-page SEO, backlinks, keyword research, and performance optimization strategies.",
+        "language": "English",
+        "author": "Rachel White"
+      },
+      {
+        "id": 9,
+        "title": "Digital Marketing Strategies for Businesses",
+        "description": "Discover the latest digital marketing trends, tools, and strategies to promote businesses online, including social media, email marketing, and PPC campaigns.",
+        "language": "English",
+        "author": "Mark Brown"
+      },
+      {
+        "id": 10,
+        "title": "Data Analysis with Microsoft Excel",
+        "description": "Learn how to analyze and visualize data using advanced Excel features such as pivot tables, charts, formulas, and data analysis toolkits.",
+        "language": "English",
+        "author": "Laura Wilson"
+      }
+    ]
