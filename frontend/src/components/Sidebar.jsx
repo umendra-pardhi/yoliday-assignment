@@ -5,7 +5,7 @@ const Sidebar = () => {
   const [isOpen, setIsOpen] = useState(true);
 
   return (
-    <aside className="w-64 bg-[#DF5532] text-white flex flex-col hidden lg:block">
+    <aside className="w-64 bg-[#DF5532] text-white flex flex-col hidden lg:block lg:h-screen">
     <div className="flex items-center  h-16">
         <div className="text-sm font-semibold px-5"><i className="fas fa-juice mr-2"></i>LOGO</div>
     </div>

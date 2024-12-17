@@ -4,69 +4,79 @@
         "title": "Mastering the Art of Summarizing Text",
         "description": "A comprehensive guide to improving text summarization skills, using both manual techniques and AI-powered tools for maximum efficiency.",
         "language": "English",
-        "author": "John Doe"
+        "author": "John Doe",
+        "img":"https://storage.googleapis.com/a1aa/image/DQzdc0Pffxr9c0qrnbvxVHUvllhU8fPNOmH12Tv1z3T47i1nA.jpg"
       },
       {
         "id": 2,
         "title": "Developing Mobile Applications",
         "description": "Learn the fundamentals of mobile app development using platforms like React Native and Flutter, and create apps for both iOS and Android.",
         "language": "English",
-        "author": "Alice Johnson"
+        "author": "Alice Johnson",
+        "img":"https://storage.googleapis.com/a1aa/image/XOJewzeBrgkMwU3Y8WQFJNr10v6hV4XJFnzIDvnpfS7z7i1nA.jpg"
       },
       {
         "id": 3,
         "title": "Introduction to Python Programming",
         "description": "A beginner-friendly tutorial that covers Python programming basics, including variables, loops, functions, and a simple real-world project.",
         "language": "English",
-        "author": "Michael Smith"
+        "author": "Michael Smith",
+        "img":"https://storage.googleapis.com/a1aa/image/AsnA19wNSWLjOp8fkIBzjj642CrSrQIYMReOB9crOpv6dx6TA.jpg"
       },
       {
         "id": 4,
         "title": "Writing Scientific Research Papers",
         "description": "Step-by-step guidance on how to write well-structured and impactful scientific research papers, including citation formats and literature reviews.",
         "language": "English",
-        "author": "Emily Davis"
+        "author": "Emily Davis",
+        "img":"https://storage.googleapis.com/a1aa/image/DQzdc0Pffxr9c0qrnbvxVHUvllhU8fPNOmH12Tv1z3T47i1nA.jpg"
       },
       {
         "id": 5,
         "title": "Getting Started with JavaScript Programming",
         "description": "An in-depth exploration of JavaScript concepts, including DOM manipulation, event handling, and modern ES6 features like promises and async/await.",
         "language": "English",
-        "author": "Chris Evans"
+        "author": "Chris Evans",
+         "img":"https://storage.googleapis.com/a1aa/image/XOJewzeBrgkMwU3Y8WQFJNr10v6hV4XJFnzIDvnpfS7z7i1nA.jpg"
       },
       {
         "id": 6,
         "title": "An Introduction to UI/UX Design",
         "description": "Learn the principles of UI/UX design, user research, wireframing, and prototyping, along with practical examples of user-centric design practices.",
         "language": "English",
-        "author": "Sophia Martinez"
+        "author": "Sophia Martinez",
+        "img":"https://storage.googleapis.com/a1aa/image/AsnA19wNSWLjOp8fkIBzjj642CrSrQIYMReOB9crOpv6dx6TA.jpg"
       },
       {
         "id": 7,
         "title": "Agile Project Management Essentials",
         "description": "An introduction to Agile methodologies like Scrum and Kanban, with real-world case studies of effective project management workflows.",
         "language": "English",
-        "author": "David Thompson"
+        "author": "David Thompson",
+        "img":"https://storage.googleapis.com/a1aa/image/DQzdc0Pffxr9c0qrnbvxVHUvllhU8fPNOmH12Tv1z3T47i1nA.jpg"
       },
       {
         "id": 8,
         "title": "Search Engine Optimization (SEO) Techniques",
         "description": "Understand how to improve website rankings on search engines using on-page SEO, backlinks, keyword research, and performance optimization strategies.",
         "language": "English",
-        "author": "Rachel White"
+        "author": "Rachel White",
+         "img":"https://storage.googleapis.com/a1aa/image/XOJewzeBrgkMwU3Y8WQFJNr10v6hV4XJFnzIDvnpfS7z7i1nA.jpg"
       },
       {
         "id": 9,
         "title": "Digital Marketing Strategies for Businesses",
         "description": "Discover the latest digital marketing trends, tools, and strategies to promote businesses online, including social media, email marketing, and PPC campaigns.",
         "language": "English",
-        "author": "Mark Brown"
+        "author": "Mark Brown",
+        "img":"https://storage.googleapis.com/a1aa/image/AsnA19wNSWLjOp8fkIBzjj642CrSrQIYMReOB9crOpv6dx6TA.jpg"
       },
       {
         "id": 10,
         "title": "Data Analysis with Microsoft Excel",
         "description": "Learn how to analyze and visualize data using advanced Excel features such as pivot tables, charts, formulas, and data analysis toolkits.",
         "language": "English",
-        "author": "Laura Wilson"
+        "author": "Laura Wilson",
+        "img":"https://storage.googleapis.com/a1aa/image/DQzdc0Pffxr9c0qrnbvxVHUvllhU8fPNOmH12Tv1z3T47i1nA.jpg"
       }
     ]
